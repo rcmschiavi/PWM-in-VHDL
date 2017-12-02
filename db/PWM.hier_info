@@ -1,0 +1,45 @@
+|PWM
+clk => signal_pwm.CLK
+clk => t_mod[0].CLK
+clk => t_mod[1].CLK
+clk => t_mod[2].CLK
+clk => t_mod[3].CLK
+clk => t_mod[4].CLK
+clk => t_mod[5].CLK
+clk => t_mod[6].CLK
+clk => t_mod[7].CLK
+clk => t[0].CLK
+clk => t[1].CLK
+clk => t[2].CLK
+clk => t[3].CLK
+clk => t[4].CLK
+clk => t[5].CLK
+clk => t[6].CLK
+clk => t[7].CLK
+clk => t[8].CLK
+clk => t[9].CLK
+clk => t[10].CLK
+clk => t[11].CLK
+clk => t[12].CLK
+clk => t[13].CLK
+clk => t[14].CLK
+clk => t[15].CLK
+PWM <= signal_pwm.DB_MAX_OUTPUT_PORT_TYPE
+duty_cycle[0] => LessThan0.IN16
+duty_cycle[0] => LessThan1.IN16
+duty_cycle[1] => LessThan0.IN15
+duty_cycle[1] => LessThan1.IN15
+duty_cycle[2] => LessThan0.IN14
+duty_cycle[2] => LessThan1.IN14
+duty_cycle[3] => LessThan0.IN13
+duty_cycle[3] => LessThan1.IN13
+duty_cycle[4] => LessThan0.IN12
+duty_cycle[4] => LessThan1.IN12
+duty_cycle[5] => LessThan0.IN11
+duty_cycle[5] => LessThan1.IN11
+duty_cycle[6] => LessThan0.IN10
+duty_cycle[6] => LessThan1.IN10
+duty_cycle[7] => LessThan0.IN9
+duty_cycle[7] => LessThan1.IN9
+
+

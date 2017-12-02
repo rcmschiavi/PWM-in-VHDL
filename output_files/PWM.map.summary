@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Dec 02 16:32:01 2017
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : PWM
+Top-level Entity Name : PWM
+Family : MAX 10
+Total logic elements : 60
+    Total combinational functions : 60
+    Dedicated logic registers : 25
+Total registers : 25
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
